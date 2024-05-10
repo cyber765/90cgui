@@ -18,8 +18,7 @@ import matplotlib.pyplot as plt
 import pycox
 import os
 
-os.chmod("/home/xffktz/pyproject/90cguiweb",0o777)
-
+#os.chmod("/home/xffktz/pyproject/90cguiweb",0o777)
 
 st.title('Deephit model')
 
