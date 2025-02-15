@@ -1,5 +1,4 @@
-torch
-torchvision
+pytorch==2.3.0
 numpy==1.26.4
 pandas==1.5.3
 torchtuples==0.2.2
