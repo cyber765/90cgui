@@ -5,3 +5,4 @@ pandas==1.5.3
 torchtuples==0.2.2
 matplotlib==3.9.2
 h5py
+numba
