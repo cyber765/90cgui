@@ -1,7 +1,7 @@
 torch
 torchvision
-numpy=1.26.4=py39h5f9d8c6_0
-numpy-base=1.26.4=py39hb5e798b_0
-pandas=1.5.3=py39h417a72b_0
-torchtuples=0.2.2=pyhd8ed1ab_1
-matplotlib-base=3.9.2=py39hbfdbfaf_1
+numpy=1.26.4
+numpy-base=1.26.4
+pandas=1.5.3
+torchtuples=0.2.2
+matplotlib-base=3.9.2
