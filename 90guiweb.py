@@ -45,7 +45,7 @@ HIS = st.number_input('HIS')
 
 day = st.number_input('Predict Day',min_value=0,max_value=80)
 
-model = torch.load("deephit5sig.pt")
+model = torch.load("deephit5sig.pt", weights_only=False)
 
 pdata1 = pd.DataFrame({"dat": (PGA, PRO, ALA, GLY, HIS)})
 pdata2 = pdata1.transpose().values.astype("float32")
